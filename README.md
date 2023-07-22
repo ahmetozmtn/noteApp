@@ -181,7 +181,3 @@ Projenin API'ları JWT tabanlı kimlik doğrulama ile çalışır. Aşağıdaki 
 -   `GET http://localhost:3000/admin/deleteAllUser`: adminin tum kullanıcıları ve kullanıcıların notlarınıda silmesini sağlar. Kimlik doğrulama için geçerli bir JWT token gereklidir. istenen parametreler. API endpoint'lerine istek yaparken JSON formatında veri göndermelisiniz.
 
 Daha fazla detay için, projenin kaynak kodlarını inceleyebilirsiniz.
-
-## Katkılar ve Lisans
-
-Bu proje açık kaynaklıdır. Her türlü katkı ve öneriye açıktır.
